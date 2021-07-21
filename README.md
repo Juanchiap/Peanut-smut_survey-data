@@ -26,7 +26,7 @@ ii) Severely Damaged Pods (SDP) represented the proportion of classes 3 and 4 (P
 The distribution of disease classes were calculated as the severity class incidence (SCI) (2), expressed as a percentage of the total number of pods infected, and 
 the relative frequency of disease severity classes (f DSC) (3):
 
-DSI = Σ (n*disease severity class) / N 	    (1)
+DSI = (Σ (n*disease severity class) / (N*4))*100 	    (1)
 SCIx (%) = (nx/ N) ×100		(2)
 f DSCx = (nx) / Ni	 (3)
 
